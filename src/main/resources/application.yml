@@ -1,0 +1,12 @@
+#.properties�ĸ�ʽ
+#my.name=xiaodan
+#my.age=18
+
+my:
+ name: xiaodan
+ age: 18
+
+#application-dev.yml活跃
+spring:
+  profiles:
+      active: dev

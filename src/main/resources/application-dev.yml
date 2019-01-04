@@ -1,0 +1,6 @@
+#.properties�ĸ�ʽ
+#my.name=xiaodan
+#my.age=18
+
+server:
+  port: 8082
